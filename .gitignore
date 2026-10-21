@@ -1,0 +1,23 @@
+# Исходники уроков и инструменты сборки (хранятся локально у преподавателя;
+# в репозитории — только готовые ноутбуки, без дублей содержимого)
+src/
+tools/
+_archive/
+
+# Черновики
+bjfoen.ipynb
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
